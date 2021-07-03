@@ -33,3 +33,25 @@ Fill me in please! Don't forget code examples:
     387420489
 
 
+
+```python
+say_hello('Adam')
+```
+
+
+
+
+    'Hello Adam!'
+
+
+
+```python
+say_bye('Adam')
+```
+
+
+
+
+    'Bye Adam!'
+
+
