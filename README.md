@@ -1,10 +1,6 @@
-# Title
+# Welcome to new_nb
+> This does not need a description
 
-
-
-## Welcome to new_nb
-
-> This is a dummy description
 
 This file will become your README and also the index of your documentation.
 
